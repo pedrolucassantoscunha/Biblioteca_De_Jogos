@@ -1,0 +1,14 @@
+C:\Users\Professor\source\repos\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.exe.config
+C:\Users\Professor\source\repos\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.exe
+C:\Users\Professor\source\repos\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.pdb
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.csproj.CoreCompileInputs.cache
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.exe
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.pdb
+C:\Users\Professor\source\repos\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.csprojAssemblyReference.cache
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.exe.config
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.exe
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\bin\Debug\BibliotecaDejogos.pdb
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.csproj.AssemblyReference.cache
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.csproj.CoreCompileInputs.cache
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.exe
+D:\Documentos\Coisas\ETE\GitHub\etefmc\BibliotecaDejogos\obj\Debug\BibliotecaDejogos.pdb
